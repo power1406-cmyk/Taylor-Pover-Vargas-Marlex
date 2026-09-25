@@ -1,0 +1,50 @@
+{
+  "documento": "Reglamento del Aprendiz SENA",
+  "version": "Acuerdo 9 de 2024",
+  "estructura": [
+    {
+      "titulo": "Derechos del Aprendiz",
+      "articulo": 5,
+      "descripcion": "Garantías y beneficios durante el proceso formativo."
+    },
+    {
+      "titulo": "Deberes del Aprendiz",
+      "articulo": 8,
+      "descripcion": "Obligaciones académicas, disciplinarias y administrativas."
+    },
+    {
+      "titulo": "Prohibiciones",
+      "articulo": 9,
+      "descripcion": "Conductas no permitidas dentro de la entidad."
+    },
+    {
+      "titulo": "Régimen Disciplinario",
+      "articulos": [41, 46, 47],
+      "descripcion": "Faltas, medidas formativas y sanciones."
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál de los siguientes es un derecho del aprendiz según el artículo 5?",
+      "opciones": [
+        "Tener a su disposición infraestructura y recursos físicos/tecnológicos.",
+        "Incumplir con el cronograma de actividades sin justificación.",
+        "Ingresar bebidas alcohólicas a la entidad."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5, numeral 4, establece el derecho a tener a su alcance la infraestructura, recursos físicos, técnicos y tecnológicos requeridos para su formación."
+    },
+    {
+      "id": 2,
+      "pregunta": "Según el artículo 9, ¿qué conducta está prohibida?",
+      "opciones": [
+        "Participar en las elecciones del representante de los aprendices.",
+        "Plagiar materiales, trabajos y documentos en actividades evaluativas.",
+        "Actualizar los datos básicos en el sistema de gestión académica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 9, numeral 4, prohíbe explícitamente el plagio de materiales, trabajos y documentos generados en grupos de trabajo o actividades evaluativas."
+    }
+  ]
+}

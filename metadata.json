@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix SENA Induction Hub",
+  "description": "Herramienta interactiva para la inducción de aprendices SENA, abarcando componentes institucionales, normativos y pedagógicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
